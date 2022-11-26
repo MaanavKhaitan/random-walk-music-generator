@@ -7,4 +7,4 @@ I started by applying a Fourier Transform to deconstruct a sound of a C note on 
 
 I then used this info on the info on the ratios between the dominant frequency and the other frequencies to construct piano-like sounds for every other note in the A Minor scale.
 
-Finally, I used a random walk to generate somewhat of a tune, and visualized this using Matplotlib :)
+Finally, I used a random walk to generate a tune, and visualized this using Matplotlib :)
